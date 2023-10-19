@@ -20,3 +20,8 @@ Um modelo de boilerplate do Next.js com uma estrutura de pastas baseada em atomi
 - Estrutura de Pastas com Atomic Design
 - Instância de API com o Axios.
 - Fácil de usar!
+
+
+## Créditos
+
+- [atomic design](https://bradfrost.com/blog/post/atomic-web-design/)
