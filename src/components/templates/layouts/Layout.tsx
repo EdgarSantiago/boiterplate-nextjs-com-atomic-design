@@ -11,11 +11,8 @@ const Layout: React.FC<LayoutProps> = ({ children, title, description }) => {
   return (
     <div>
       <Head>
-        <title>{title ? `${title} | Your App Name` : "Your App Name"}</title>
-        <meta
-          name="description"
-          content={description || "Your default description"}
-        />
+        <title>{title ? `${title} | Nome do app` : "Nome do app"}</title>
+        <meta name="description" content={description || "Descrição padrão"} />
       </Head>
 
       <header>{/* Você pode colocar o navbar aqui */}</header>
