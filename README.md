@@ -1,6 +1,6 @@
 # Boiterplate nextjs com atomic design
 
-Um modelo de boilerplate do Next.js com uma estrutura de pastas baseada em atomic design e uma instância de API com o Axios pronta para desenvolvimento.
+Explore este modelo de boilerplate do Next.js, que apresenta uma estrutura de pastas inspirada no conceito de design atômico e já inclui uma instância de API configurada com Axios para acelerar seu desenvolvimento. Esta versátil template pode ser usada conforme sua preferência, até mesmo em outras estruturas como Vue ou Angular. Se você gostar do que encontrou, uma simples 🌟 é mais do que suficiente para mostrar seu apoio!
 
 ## Stacks utilizadas
 
